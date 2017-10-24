@@ -64,7 +64,7 @@ body.header-transparent.semi .layout-box #header  .semi-transparent #header-wrap
   background-color: rgb(58,58,58);background-color: rgba(58,58,58,0.88);}
 .left-header .left-strip-wrapper,
 .left-header #left-header-mobile {
-  background-color : #2f3744 ;
+  background-color : #303743 ;
 }
 .layout-box-top,
 .layout-box-bottom,
@@ -168,7 +168,7 @@ h6,
 }
 .top-right-sliding-menu .sb-right ul#slidebar-menu li,
 .overlay-menu-close {
-  font:  400 13px "Open Sans","Open Sans","Arial",sans-serif;
+  font:  400 13px "Raleway","Open Sans","Arial",sans-serif;
   color: #ffffff;
   line-height: 60px;
   letter-spacing: 1px;
@@ -186,7 +186,7 @@ h6,
   color: #ffffff !important;
 }
 .sb-right #slidebar-menu .mega .sub-menu .highlight .sf-with-ul{
- font:  400 13px "Open Sans","Open Sans","Arial",sans-serif;
+ font:  400 13px "Raleway","Open Sans","Arial",sans-serif;
   color: #ffffff;
   line-height: 60px;
   letter-spacing: 1px;
@@ -204,19 +204,19 @@ h6,
 #header-controls-left,
 body #header-inner-wrap.top-animate.style2 #navigation,
 .top-overlay-menu .sb-right  #slidebar-menu {
-    font:  600 14px "Source Sans Pro","Open Sans","Arial",sans-serif;
+  font:  400 13px "Raleway","Open Sans","Arial",sans-serif;
   color: #999999;
   line-height: 43px;
   letter-spacing: 1px;
   text-transform: uppercase;}
 ul#mobile-menu a {
-    font:  400 12px "Montserrat","Open Sans","Arial",sans-serif;
+  font:  400 13px "Raleway","Open Sans","Arial",sans-serif;
   color: #d6d6d6;
   line-height: 40px;
   letter-spacing: 1px;
   text-transform: uppercase;}
 ul#mobile-menu ul.sub-menu a{
-    font:  400 13px "Raleway","Open Sans","Arial",sans-serif;
+  font:  400 13px "Raleway","Open Sans","Arial",sans-serif;
   color: #bbbbbb;
   line-height: 27px;
   letter-spacing: 0px;
@@ -231,7 +231,7 @@ ul#mobile-menu ul.sub-menu a{
 #navigation-right-side .children,
 .sb-left  #slidebar-menu .sub-menu,
 .top-overlay-menu .sb-right  #slidebar-menu .sub-menu{
-  font: italic 400 14px "Source Sans Pro","Open Sans","Arial",sans-serif;
+  font:  400 13px "Raleway","Open Sans","Arial",sans-serif;
   color: #999999;
   line-height: 28px;
   letter-spacing: 0px;
@@ -291,13 +291,13 @@ ul#mobile-menu ul.sub-menu a{
   text-transform: none;}
 
 .sb-slidebar .widget {
-  font:  400 12px "Open Sans","Open Sans","Arial",sans-serif;
+  font:  400 13px "Raleway","Open Sans","Arial",sans-serif;
   color: #a2a2a2;
   line-height: 22px;
   letter-spacing: 0px;
   text-transform: none;}
 .sb-slidebar .widget h6 {
-  font:  600 12px "Source Sans Pro","Open Sans","Arial",sans-serif;
+  font:  400 13px "Raleway","Open Sans","Arial",sans-serif;
   color: #303030;
   line-height: 28px;
   letter-spacing: 1px;
