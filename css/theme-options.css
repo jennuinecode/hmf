@@ -8,7 +8,12 @@ body.header-transparent #header #header-inner-wrap.no-transparent,
     background: #ffffff url('') no-repeat scroll center top;}
 #mobile-menu,
 #mobile-menu ul {
-    background-color: rgb(255,255,255);background-color: rgba(255,255,255,1);}
+    background-color: rgb(255,255,255);background-color: rgba(255,255,255,1);
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
 
 body.header-transparent #header-inner-wrap{
   background: transparent;
